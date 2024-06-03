@@ -26,7 +26,7 @@ function App() {
         </div>
       </div>
 
-      <div className='hidden sm:block flex justify-center gap-x-36 items-end'>
+      <div className='hidden sm:flex justify-center gap-x-36 items-end'>
         <div className='border border-black py-14 px-2 text-center'>вход</div>
         <div className='border border-black py-2 px-20 min-w-[20%] text-center'>
           стол молодоженов
